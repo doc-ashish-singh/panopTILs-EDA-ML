@@ -16,5 +16,5 @@ The project fundamentally evaluates the spatial distribution of cancer epitheliu
 ![Spatial-Distribution-of-TILs](https://github.com/user-attachments/assets/637c80e1-a798-49ea-9e4b-0c2ab4cd0432)
 ![Spatial-Distributions-All-Cells](https://github.com/user-attachments/assets/6e22eafa-9811-431d-8fb7-252876b772e4)
 <img width="1086" alt="Confusion-Matrix" src="https://github.com/user-attachments/assets/20f09d1d-2456-429a-a01f-f2a07af3cf8f" />
-<img width="867" alt="Kaplan-Meier-Curves" src="https://github.com/user-attachments/assets/7145af87-ab67-4d37-adc0-002da35d2360" />
+<img width="874" alt="Kaplan-Meier-Curves" src="https://github.com/user-attachments/assets/029699d5-aad2-4533-8b27-4576c286da25" />
 
