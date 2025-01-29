@@ -1,9 +1,5 @@
 # panopTILs-EDA-ML
 
-PanopTILS-EDA-ML-Code-Only.ipynb (notebook above) - To view code only
-
-https://nbviewer.org/github/doc-ashish-singh/panopTILs-EDA-ML/blob/main/panopTILs-EDA-ML.ipynb - To view code with output from panopTILs-EDA-ML-Code-With-Output.ipynb
-
 This project is exploratory data analysis using PanopTILs digital pathology dataset, available at https://sites.google.com/view/panoptils/ and BCSS clinical data set by Liu J, et al. An Integrated TCGA Pan-Cancer Clinical Data Resource to Drive High-Quality Survival Outcome Analytics. Cell. 2018 Apr;173(2):400-416.e11, available at https://pubmed.ncbi.nlm.nih.gov/29625055/
 
 The project fundamentally evaluates the spatial distribution of cancer epithelium, tumour infiltrating lymphocytes (TILs) and stroma. A simple machine learning model predicts Disease-Free Interval, a clinical outcome, using cancer spatial heterogeneity - coefficient of variation - from digital pathology whole-slide images. Main limitations are a small sample size and a simple machine learning model prone to underfitting. It arguably serves a crude validation for Roxanis I, et. al The significance of tumour microarchitectural features in breast cancer prognosis: a digital image analysis. Breast Cancer Research. 2018 Feb 5;20(1), available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5799893/
