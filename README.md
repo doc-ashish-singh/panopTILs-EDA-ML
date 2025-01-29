@@ -1,6 +1,6 @@
 # panopTILs-EDA-ML
 
-PanopTILS-EDA-ML-Code-Only.ipynb - To view code only
+PanopTILS-EDA-ML-Code-Only.ipynb (notebook above) - To view code only
 
 https://nbviewer.org/github/doc-ashish-singh/panopTILs-EDA-ML/blob/main/panopTILs-EDA-ML.ipynb - To view code with output from panopTILs-EDA-ML-Code-With-Output.ipynb
 
