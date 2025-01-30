@@ -5,7 +5,6 @@ This project is exploratory data analysis using PanopTILs digital pathology data
 The project fundamentally evaluates the spatial distribution of cancer epithelium, tumour infiltrating lymphocytes (TILs) and stroma. A simple machine learning model predicts Disease-Free Interval, a clinical outcome, using cancer spatial heterogeneity - coefficient of variation - from digital pathology whole-slide images. Main limitations are a small sample size and a simple machine learning model prone to underfitting. It arguably serves a crude validation for Roxanis I, et. al The significance of tumour microarchitectural features in breast cancer prognosis: a digital image analysis. Breast Cancer Research. 2018 Feb 5;20(1), available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5799893/
 
 ![WSI](https://github.com/user-attachments/assets/3a015af4-8772-4743-9607-553993a64cf1)
-![WSI-ROI](https://github.com/user-attachments/assets/0a6468b2-e201-4588-b848-dd6d8a356b0f)
 ![Segmented-ROI](https://github.com/user-attachments/assets/eb592b02-fe57-4211-b711-eb3b3b547425)
 ![Segmentation-with-labels](https://github.com/user-attachments/assets/94461638-d5e4-40e2-bfc9-3716b3698fdd)
 <img width="618" alt="Segmented-TILsCell" src="https://github.com/user-attachments/assets/f6f8350d-44ab-4a47-ba53-3019452b7a78" />
