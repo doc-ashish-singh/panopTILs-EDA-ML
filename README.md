@@ -1,4 +1,4 @@
-# panopTILs-EDA-ML
+# Exploratory spatial data analysis of PanopTILs
 
 This project is exploratory data analysis using PanopTILs digital pathology dataset, available at https://sites.google.com/view/panoptils/ and BCSS clinical data set by Liu J, et al. An Integrated TCGA Pan-Cancer Clinical Data Resource to Drive High-Quality Survival Outcome Analytics. Cell. 2018 Apr;173(2):400-416.e11, available at https://pubmed.ncbi.nlm.nih.gov/29625055/
 
